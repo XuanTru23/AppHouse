@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72747841563",
+    "project_id": "ungdungnha",
+    "storage_bucket": "ungdungnha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72747841563:android:6b190e3a6a4fb96c2420be",
+        "android_client_info": {
+          "package_name": "com.example.apphouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72747841563-op4ut2oadduldo3atbbqh21d88s2otep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuj9PvBg5YJE-t_hr67W3PutZcKwuaAeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72747841563-op4ut2oadduldo3atbbqh21d88s2otep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
